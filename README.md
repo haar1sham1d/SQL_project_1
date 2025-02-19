@@ -8,3 +8,6 @@ A simple example of some queries i have learned via DataCamp. The csv privded by
 
 Haaris Hamid
 @haar1sham1d
+
+
+test test
